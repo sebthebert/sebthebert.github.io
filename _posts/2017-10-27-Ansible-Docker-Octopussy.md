@@ -18,8 +18,16 @@ I thought it would be easy because:
 
 It was really really more complicated than I thought first...
 
+I chose 2 versions for 4 distributions:
+  * CentOS 6 & 7
+  * Debian 8 & 9
+  * Fedora 25 & 26
+  * Ubuntu 14.04 & 16.05
+  
 ## Docker
 
+Some images don't have python
+ 
 ## Ansible & Python versions
 
 ## Systemd
